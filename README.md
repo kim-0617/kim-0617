@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://img.shields.io/badge/HTML-#e96228?style=flat-square&logo=html&logoColor=#fff"/>
 
 <!--
 **kim-0617/kim-0617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
