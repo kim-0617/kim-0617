@@ -1,4 +1,3 @@
-# 👋 kim-0617 👋
 <div align="center">
     <br><br><br>
 
