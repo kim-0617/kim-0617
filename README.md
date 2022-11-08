@@ -24,11 +24,12 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-0617&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
 
+<br><br><br>
 ### 리액트 뷰 수업 예제
 <div>
-    <a href="https://cra01.netlify.app/">리액트 사이트1 (https://cra01.netlify.app/)</a>
-    <a href="https://vueclass17.web.app/">뷰 사이트1 (https://vueclass17.web.app/)</a>
-    <br>
-    <a href="https://cra02.netlify.app/">리액트 API (https://cra02.netlify.app/)</a>
-    <a href="https://vueapi17-2b28a.web.app/">뷰 API (https://vueapi17-2b28a.web.app/)</a>
+    <a href="https://cra01.netlify.app/">리액트 사이트1 (https://cra01.netlify.app/)</a><br>   
+    <a href="https://vueclass17.web.app/">뷰 사이트1 (https://vueclass17.web.app/)</a><br>   
+    <br><br>
+    <a href="https://cra02.netlify.app/">리액트 API (https://cra02.netlify.app/)</a><br>   
+    <a href="https://vueapi17-2b28a.web.app/">뷰 API (https://vueapi17-2b28a.web.app/)</a><br>  
 </div>
