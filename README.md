@@ -1,66 +1,225 @@
+## Hi there 🎶, I'm Kim Seong Hyeon!
+
+<a href="https://github.com/kim-0617" target="_blank">
+  <img
+  src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
+  alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://kim0617.tistory.com/" target="_blank">
+  <img
+  src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white
+  alt=medium style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.io/your-work" target="_blank">
+  <img
+  src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white
+  alt=codepen style="margin-bottom: 5px;" />
+</a>
+
+### Glad to see you here! I am a new front-end developer. I want to adapt well
+in the fast-changing front-end market. I specialize in making a web page and
+making a web application with React. <br />
+I try to make it in consideration of web standards and responsiveness. <br />
+I want to master React, TypeScript and Redux.
+
+<br />
+
+## Rapidfire
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      - 🔭 I’m currently working on somewhere <br>
+      - 🌱 I’m currently learningTypescript and Redux <br>
+      - ❓ Ask me about anything related to javascript<br>
+    </td>
+    <td valign="top" width="50%">
+      <div align="center">
+        <img
+          src="https://rishavanand.github.io/static/images/greetings.gif"
+          align="center"
+          style="width: 100%"
+        />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## Languages and Tools
 <div align="center">
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"
+    ><img
+      style="margin: 15px"
+      src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"
+      alt="HTML5"
+      height="35"
+  /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"
+    ><img
+      style="margin: 15px"
+      src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"
+      alt="CSS3"
+      height="35"
+  /></a>
+  <a href="https://www.javascript.com/" target="_blank"
+    ><img
+      style="margin: 15px"
+      src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"
+      alt="JavaScript"
+      height="35"
+  /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"
+    ><img
+      style="margin: 15px"
+      src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg"
+      alt="TypeScript"
+      height="35"
+  /></a>
+  <a href="https://reactjs.org/" target="_blank"
+    ><img
+      style="margin: 15px"
+      src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"
+      alt="React"
+      height="35"
+  /></a>
+  <a href="https://vuejs.org/" target="_blank"
+    ><img
+      style="margin: 15px"
+      src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg"
+      alt="Vue.js"
+      height="35"
+  /></a>
+  <a href="https://www.mysql.com/" target="_blank"
+    ><img
+      style="margin: 15px"
+      src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"
+      alt="MySQL"
+      height="35"
+  /></a>
+  <a href="https://www.php.net/" target="_blank"
+    ><img
+      style="margin: 15px"
+      src="https://profilinator.rishav.dev/skills-assets/php-original.svg"
+      alt="PHP"
+      height="35"
+  /></a>
+  <a href="https://nodejs.org/" target="_blank"
+    ><img
+      style="margin: 15px"
+      src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg"
+      alt="Node.js"
+      height="35"
+  /></a>
+  <a href="https://www.python.org/" target="_blank"
+    ><img
+      style="margin: 15px"
+      src="https://profilinator.rishav.dev/skills-assets/python-original.svg"
+      alt="Python"
+      height="35"
+  /></a>
+  <a href="https://www.linux.org/" target="_blank"
+    ><img
+      style="margin: 15px"
+      src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"
+      alt="Linux"
+      height="35"
+  /></a>
+  <a href="https://redux.js.org/" target="_blank"
+    ><img
+      style="margin: 15px"
+      src="https://profilinator.rishav.dev/skills-assets/redux-original.svg"
+      alt="Redux"
+      height="35"
+  /></a>
+  <a href="https://expressjs.com/" target="_blank"
+    ><img
+      style="margin: 15px"
+      src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg"
+      alt="Express.js"
+      height="35"
+  /></a>
+  <a href="https://webpack.js.org/" target="_blank"
+    ><img
+      style="margin: 15px"
+      src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg"
+      alt="Webpack"
+      height="35"
+  /></a>
+  <a href="https://github.com/" target="_blank"
+    ><img
+      style="margin: 15px"
+      src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"
+      alt="Git"
+      height="35"
+  /></a>
+  <a href="https://www.figma.com/" target="_blank"
+    ><img
+      style="margin: 15px"
+      src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg"
+      alt="Figma"
+      height="35"
+  /></a>
+  <a href="https://firebase.google.com/" target="_blank"
+    ><img
+      style="margin: 15px"
+      src="https://profilinator.rishav.dev/skills-assets/firebase.png"
+      alt="Firebase"
+      height="35"
+  /></a>
+  <a href="https://jquery.com/" target="_blank"
+    ><img
+      style="margin: 15px"
+      src="https://profilinator.rishav.dev/skills-assets/jquery.png"
+      alt="jQuery"
+      height="35"
+  /></a>
+  <a href="https://styled-components.com/" target="_blank"
+    ><img
+      style="margin: 15px"
+      src="https://profilinator.rishav.dev/skills-assets/styled-components.png"
+      alt="Styled Components"
+      height="35"
+  /></a>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?type=waving&font=Oleo+Script&color=08f&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80kim-0617+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+<br />
 
-<br><br><br>
+## Github Stats
+<table style="overflow-x: hidden;">
+  <tr>
+    <td valign="top" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=kim-0617&show_icons=true&count_private=true&hide_border=true"
+        align="left"
+        style="width: 100%"
+      />
+    </td>
+    <td valign="top" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-0617&hide_border=true&layout=compact"
+        align="left"
+        style="width: 100%"
+      />
+    </td>
+  </tr>
+</table>
 
-<!-- kim-0617's profile -->
- 
- 
-<a href="https://github.com/kim-0617/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=kim-0617&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=49.2% />
-</a>
- 
-<br><br><br>
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-0617&layout=compact&theme=react-dark)](https://github.com/kim-0617/github-readme-stats)
-<br><br><br>
+<br />
 
-<a href="https://github.com/kim-0617/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=kim-0617&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
-</a>
+<br />
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-0617&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
+![Profile views
+counter](https://komarev.com/ghpvc/?username=kim-0617&&style=flat-square)
 
-<br><br><br>
+<br />
+<br />
+<br />
 
-<h2>👩🏻‍💻 : 프로그래밍 & 마크업 언어</h2>
-    <p>
-        <br>
-        <a href="https://kim-0617.github.io/coding/javascript/index.html"><img alt="JavaScript"
-                src="https://img.shields.io/badge/JavaScript-512BD4?style=flat&logo=JavaScript&logoColor=white"></a>
-        <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-ffffff?logo=HTML5&logoColor=512BD4"></a>
-        <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-512BD4?logo=CSS3&logoColor=white"></a>
-        <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-ffffff?logo=PHP&logoColor=512BD4"></a>
-        <a href="#"><img alt="Markdown"
-                src="https://img.shields.io/badge/Markdown-512BD4?logo=Markdown&logoColor=white"></a>
-        <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-ffffff?logo=Node.js&logoColor=512BD4"></a>
-        <a href="#"><img alt="TypeScript"
-                src="https://img.shields.io/badge/TypeScript-512BD4?logo=TypeScript&logoColor=white"></a>
-    </p>
-    <!-- ### ⚒️: 프레임워크 & 라이브러리 -->
-    <h2>⚒️: 프레임워크 & 라이브러리</h2>
-    <p>
-        <br>
-        <a href="#"><img alt="Bootstrap"
-                src="https://img.shields.io/badge/Bootstrap-ffffff?logo=Bootstrap&logoColor=512BD4"></a>
-        <a href="#"><img alt="React" src="https://img.shields.io/badge/React-512BD4?logo=React&logoColor=white"></a>
-        <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-ffffff?logo=Vue.js&logoColor=512BD4"></a>
-        <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-512BD4?logo=jQuery&logoColor=white"></a>
-    </p>
-    <h2>☁️: 데이터베이스 & 클라우드 호스팅</h2>
-    <p>
-        <br>
-        <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-ffffff?logo=Netlify&logoColor=512BD4"></a>
-        <a href="#"><img alt="phpMyAdmin"
-                src="https://img.shields.io/badge/phpMyAdmin-512BD4?logo=phpMyAdmin&logoColor=white"></a>
-    </p>
-    <h2>🖥️: 소프트웨어 & 툴</h2>
-    <p>
-        <br>
-        <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-ffffff?logo=Adobe&logoColor=512BD4"></a>
-        <a href="#"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-512BD4?logo=CodePen&logoColor=white"></a>
-        <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-ffffff?logo=Git&logoColor=512BD4"></a>
-        <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-512BD4?logo=Postman&logoColor=white"></a>
-        <a href="#"><img alt="Visual Studio Code"
-                src="https://img.shields.io/badge/Visual Studio Code-ffffff?logo=Visual Studio Code&logoColor=512BD4"></a>
-    </p>
+----
+<div align="center">
+  Generated using
+  <a href="https://profilinator.rishav.dev/" target="_blank"
+    >Github Profilinator</a
+  >
+</div>
