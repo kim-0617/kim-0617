@@ -16,21 +16,23 @@
   alt=codepen style="margin-bottom: 5px;" />
 </a>
 
-### Glad to see you here! I am a new front-end developer. I want to adapt well
-in the fast-changing front-end market. I specialize in making a web page and
-making a web application with React. <br />
+### Glad to see you here! 
+I am a new front-end developer. I want to adapt well in the fast-changing front-end market. <br><br>
+I specialize in making a web page and making a web application with React. <br />
 I try to make it in consideration of web standards and responsiveness. <br />
 I want to master React, TypeScript and Redux.
 
 <br />
 
-## Rapidfire
+## About
 <table>
   <tr>
     <td valign="top" width="50%">
-      - 🔭 I’m currently working on somewhere <br>
-      - 🌱 I’m currently learningTypescript and Redux <br>
-      - ❓ Ask me about anything related to javascript<br>
+        <ul>
+            <li style="margin-bottom: 20px;">🔭 I’m currently working on somewhere</li>
+            <li style="margin-bottom: 20px;">🌱 I’m currently learningTypescript and Redux</li>
+            <li style="margin-bottom: 20px;">❓ Ask me about anything related to javascript</li>
+        </ul>
     </td>
     <td valign="top" width="50%">
       <div align="center">
@@ -213,7 +215,9 @@ I want to master React, TypeScript and Redux.
 counter](https://komarev.com/ghpvc/?username=kim-0617&&style=flat-square)
 
 <br />
+
 <br />
+
 <br />
 
 ----
