@@ -1,60 +1,24 @@
-## Hi there 🎶, I'm Kim Seong Hyeon!
+## Hi there 🎶, I'm Seong Hyeon Kim!
 
 <a href="https://github.com/kim-0617" target="_blank">
-  <img
-  src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
-  alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="#" target="_blank">
-  <img
-  src=https://img.shields.io/badge/figma-%23292929.svg?&style=for-the-badge&logo=figma&logoColor=white
-  alt=figma style="margin-bottom: 5px;" />
-</a>
-<a href="https://codepen.io/your-work" target="_blank">
-  <img
-  src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white
-  alt=codepen style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.notion.so/PLANNING-1e1b35450c8e434b8c64ff434c1de74d" target="_blank">
-    <img
-    src=https://img.shields.io/badge/notion-%23131417.svg?&style=for-the-badge&logo=notion&logoColor=white
-    alt=notion style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/GibHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </a>
 <a href="https://kim0617.tistory.com/" target="_blank">
-    <img
-    src=https://img.shields.io/badge/tstory-%23131417.svg?&style=for-the-badge&logo=tstory&logoColor=white
-    alt=tstory style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+</a>
+<a href="mailto:kimsh5993@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 </a>
 
+
 ### Glad to see you here! 
-I am a new front-end developer. I want to adapt well in the fast-changing front-end market. <br><br>
-I specialize in making a web page and making a web application with React. <br />
-I try to make it in consideration of web standards and responsiveness. <br />
-I want to master React, TypeScript and Redux.
+I am a front-end developer. I want to adapt well in the fast-changing front-end market. <br><br>
+- I specialize in making a web page and making a web application with ReactJs and NextJs. <br />
+- I try to make it in consideration of web standards and responsiveness. <br />
+- I want to master React, TypeScript and Redux. <br />
+- I'm interested in OOP Design Pattern & Funtional Programming.
 
 <br />
-
-## About
-<table>
-  <tr>
-    <td valign="top" width="50%">
-        <ul>
-            <li style="margin-bottom: 20px;">🔭 I’m currently working on somewhere</li>
-            <li style="margin-bottom: 20px;">🌱 I’m currently learningTypescript and Redux</li>
-            <li style="margin-bottom: 20px;">❓ Ask me about anything related to javascript</li>
-        </ul>
-    </td>
-    <td valign="top" width="50%">
-      <div align="center">
-        <img
-          src="https://rishavanand.github.io/static/images/greetings.gif"
-          align="center"
-          style="width: 100%"
-        />
-      </div>
-    </td>
-  </tr>
-</table>
 
 ## Languages and Tools
 <div align="center">
@@ -196,28 +160,7 @@ I want to master React, TypeScript and Redux.
 <br />
 
 ## Github Stats
-<table style="overflow-x: hidden;">
-  <tr>
-    <td valign="top" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=kim-0617&show_icons=true&count_private=true&hide_border=true"
-        align="left"
-        style="width: 100%"
-      />
-    </td>
-    <td valign="top" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-0617&hide_border=true&layout=compact"
-        align="left"
-        style="width: 100%"
-      />
-    </td>
-  </tr>
-</table>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-0617&show_icons=true&theme=radical)
 
-<br />
-
-<br />
-
-![Profile views
-counter](https://komarev.com/ghpvc/?username=kim-0617&&style=flat-square)
+## Most Used Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-0617&langs_count=10&layout=compact&theme=dark)
