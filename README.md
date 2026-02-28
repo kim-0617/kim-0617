@@ -156,11 +156,3 @@ I am a front-end developer. I want to adapt well in the fast-changing front-end 
       height="35"
   /></a>
 </div>
-
-<br />
-
-## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-0617&show_icons=true&theme=algolia)
-
-## Most Used Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-0617&langs_count=10&layout=compact&theme=dark)
